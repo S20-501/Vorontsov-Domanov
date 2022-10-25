@@ -1,0 +1,149 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'dtrigger:DFF2|FF'
+Slack : -1.148
+TNS   : -1.148
+
+Type  : Slow 1200mV 85C Model Setup 'dtrigger:DFF1|FF'
+Slack : -1.134
+TNS   : -1.134
+
+Type  : Slow 1200mV 85C Model Setup 'dtrigger:DFF0|FF'
+Slack : -1.126
+TNS   : -1.126
+
+Type  : Slow 1200mV 85C Model Setup 'clock'
+Slack : -0.803
+TNS   : -2.205
+
+Type  : Slow 1200mV 85C Model Hold 'clock'
+Slack : 0.298
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'dtrigger:DFF0|FF'
+Slack : 1.710
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'dtrigger:DFF1|FF'
+Slack : 1.719
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'dtrigger:DFF2|FF'
+Slack : 1.731
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -8.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'dtrigger:DFF0|FF'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'dtrigger:DFF1|FF'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'dtrigger:DFF2|FF'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Setup 'dtrigger:DFF2|FF'
+Slack : -1.005
+TNS   : -1.005
+
+Type  : Slow 1200mV 0C Model Setup 'dtrigger:DFF1|FF'
+Slack : -0.992
+TNS   : -0.992
+
+Type  : Slow 1200mV 0C Model Setup 'dtrigger:DFF0|FF'
+Slack : -0.985
+TNS   : -0.985
+
+Type  : Slow 1200mV 0C Model Setup 'clock'
+Slack : -0.624
+TNS   : -1.682
+
+Type  : Slow 1200mV 0C Model Hold 'clock'
+Slack : 0.302
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'dtrigger:DFF0|FF'
+Slack : 1.608
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'dtrigger:DFF1|FF'
+Slack : 1.614
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'dtrigger:DFF2|FF'
+Slack : 1.628
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -8.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'dtrigger:DFF0|FF'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'dtrigger:DFF1|FF'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'dtrigger:DFF2|FF'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Setup 'dtrigger:DFF2|FF'
+Slack : -0.442
+TNS   : -0.442
+
+Type  : Fast 1200mV 0C Model Setup 'dtrigger:DFF1|FF'
+Slack : -0.437
+TNS   : -0.437
+
+Type  : Fast 1200mV 0C Model Setup 'dtrigger:DFF0|FF'
+Slack : -0.433
+TNS   : -0.433
+
+Type  : Fast 1200mV 0C Model Setup 'clock'
+Slack : -0.325
+TNS   : -0.871
+
+Type  : Fast 1200mV 0C Model Hold 'clock'
+Slack : 0.273
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'dtrigger:DFF0|FF'
+Slack : 1.185
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'dtrigger:DFF1|FF'
+Slack : 1.189
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'dtrigger:DFF2|FF'
+Slack : 1.195
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -8.469
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'dtrigger:DFF0|FF'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'dtrigger:DFF1|FF'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'dtrigger:DFF2|FF'
+Slack : -3.000
+TNS   : -4.000
+
+------------------------------------------------------------
